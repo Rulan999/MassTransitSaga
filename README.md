@@ -9,6 +9,7 @@ How To Run :
 - Install .Net Core Version : 5.0 
 
 - Run Docker RabbitMq
+
     docker run -it --rm --name mymq -p 5672:5672 -p 15672:15672 rabbitmq:3-management
 
 - Multiple Project Run 
