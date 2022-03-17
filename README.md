@@ -14,6 +14,7 @@ How To Run :
 
 - Multiple Project Run 
 
+MassTransit Saga : https://masstransit-project.com/usage/sagas/automatonymous.html#state
 
 ![gambar](https://user-images.githubusercontent.com/50522870/141674935-ae5ce516-65da-40b0-af0d-25e70fcf30f0.png)
 
